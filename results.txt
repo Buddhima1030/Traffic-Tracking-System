@@ -1,0 +1,222 @@
+
+    data file selected is traffic_data15062024.csv        
+    The total number of vehicles recorded for this data is 1037
+    The total number of trucks recorded for this data is 109
+    The total number of electric vehicles recorded for this data is 368
+    The total number of two-wheeled vehicles recorded for this data is 401
+    The total number of busses leaving Elm Avenue/Rabbit Road heading North is 15
+    The total number of vehicles through both junctions not turning left or right is 363
+    The percentage of total vehicles recorded that are trucks for this date is 10%
+    The average number of Bikes per hour for this date is 7
+    The total number of vehicles recorded as over the speed limit for this data is 419
+    The total number of vehicles recorded through Elm Avenue/Rabbit road junction is 494
+    The total number of vehicles recorded through Hanley Highway/Westway junction is 543
+    11% of vehicles recorded through Elm Avenue/Rabbit Road are scooters.
+    The most vehicles through Hanley Highway/Westway were recorded between 39
+    The number of hours of rain for this date is 0
+                        
+    
+    data file selected is traffic_data16062024.csv        
+    The total number of vehicles recorded for this data is 101
+    The total number of trucks recorded for this data is 11
+    The total number of electric vehicles recorded for this data is 29
+    The total number of two-wheeled vehicles recorded for this data is 29
+    The total number of busses leaving Elm Avenue/Rabbit Road heading North is 0
+    The total number of vehicles through both junctions not turning left or right is 38
+    The percentage of total vehicles recorded that are trucks for this date is 10%
+    The average number of Bikes per hour for this date is 0
+    The total number of vehicles recorded as over the speed limit for this data is 42
+    The total number of vehicles recorded through Elm Avenue/Rabbit road junction is 52
+    The total number of vehicles recorded through Hanley Highway/Westway junction is 49
+    6% of vehicles recorded through Elm Avenue/Rabbit Road are scooters.
+    The most vehicles through Hanley Highway/Westway were recorded between 5
+    The number of hours of rain for this date is 3
+                        
+    
+    data file selected is traffic_data21062024.csv        
+    The total number of vehicles recorded for this data is 1334
+    The total number of trucks recorded for this data is 138
+    The total number of electric vehicles recorded for this data is 442
+    The total number of two-wheeled vehicles recorded for this data is 503
+    The total number of busses leaving Elm Avenue/Rabbit Road heading North is 19
+    The total number of vehicles through both junctions not turning left or right is 494
+    The percentage of total vehicles recorded that are trucks for this date is 10%
+    The average number of Bikes per hour for this date is 9
+    The total number of vehicles recorded as over the speed limit for this data is 532
+    The total number of vehicles recorded through Elm Avenue/Rabbit road junction is 651
+    The total number of vehicles recorded through Hanley Highway/Westway junction is 683
+    10% of vehicles recorded through Elm Avenue/Rabbit Road are scooters.
+    The most vehicles through Hanley Highway/Westway were recorded between 71
+    The number of hours of rain for this date is 6
+                        
+    
+    data file selected is traffic_data15062024.csv        
+    The total number of vehicles recorded for this data is 1037
+    The total number of trucks recorded for this data is 109
+    The total number of electric vehicles recorded for this data is 368
+    The total number of two-wheeled vehicles recorded for this data is 401
+    The total number of busses leaving Elm Avenue/Rabbit Road heading North is 15
+    The total number of vehicles through both junctions not turning left or right is 363
+    The percentage of total vehicles recorded that are trucks for this date is 10%
+    The average number of Bikes per hour for this date is 7
+    The total number of vehicles recorded as over the speed limit for this data is 419
+    The total number of vehicles recorded through Elm Avenue/Rabbit road junction is 494
+    The total number of vehicles recorded through Hanley Highway/Westway junction is 543
+    11% of vehicles recorded through Elm Avenue/Rabbit Road are scooters.
+    The most vehicles through Hanley Highway/Westway were recorded between 39
+    The number of hours of rain for this date is 0
+                        
+    
+    data file selected is traffic_data16062024.csv        
+    The total number of vehicles recorded for this data is 101
+    The total number of trucks recorded for this data is 11
+    The total number of electric vehicles recorded for this data is 29
+    The total number of two-wheeled vehicles recorded for this data is 29
+    The total number of busses leaving Elm Avenue/Rabbit Road heading North is 0
+    The total number of vehicles through both junctions not turning left or right is 38
+    The percentage of total vehicles recorded that are trucks for this date is 10%
+    The average number of Bikes per hour for this date is 0
+    The total number of vehicles recorded as over the speed limit for this data is 42
+    The total number of vehicles recorded through Elm Avenue/Rabbit road junction is 52
+    The total number of vehicles recorded through Hanley Highway/Westway junction is 49
+    6% of vehicles recorded through Elm Avenue/Rabbit Road are scooters.
+    The most vehicles through Hanley Highway/Westway were recorded between 5
+    The number of hours of rain for this date is 3
+                        
+    
+    data file selected is traffic_data21062024.csv        
+    The total number of vehicles recorded for this data is 1334
+    The total number of trucks recorded for this data is 138
+    The total number of electric vehicles recorded for this data is 442
+    The total number of two-wheeled vehicles recorded for this data is 503
+    The total number of busses leaving Elm Avenue/Rabbit Road heading North is 19
+    The total number of vehicles through both junctions not turning left or right is 494
+    The percentage of total vehicles recorded that are trucks for this date is 10%
+    The average number of Bikes per hour for this date is 9
+    The total number of vehicles recorded as over the speed limit for this data is 532
+    The total number of vehicles recorded through Elm Avenue/Rabbit road junction is 651
+    The total number of vehicles recorded through Hanley Highway/Westway junction is 683
+    10% of vehicles recorded through Elm Avenue/Rabbit Road are scooters.
+    The most vehicles through Hanley Highway/Westway were recorded between 71
+    The number of hours of rain for this date is 6
+                        
+    
+    data file selected is traffic_data15062024.csv        
+    The total number of vehicles recorded for this data is 1037
+    The total number of trucks recorded for this data is 109
+    The total number of electric vehicles recorded for this data is 368
+    The total number of two-wheeled vehicles recorded for this data is 401
+    The total number of busses leaving Elm Avenue/Rabbit Road heading North is 15
+    The total number of vehicles through both junctions not turning left or right is 363
+    The percentage of total vehicles recorded that are trucks for this date is 10%
+    The average number of Bikes per hour for this date is 7
+    The total number of vehicles recorded as over the speed limit for this data is 419
+    The total number of vehicles recorded through Elm Avenue/Rabbit road junction is 494
+    The total number of vehicles recorded through Hanley Highway/Westway junction is 543
+    11% of vehicles recorded through Elm Avenue/Rabbit Road are scooters.
+    The most vehicles through Hanley Highway/Westway were recorded between 39
+    The number of hours of rain for this date is 0
+                        
+    
+    data file selected is traffic_data15062024.csv        
+    The total number of vehicles recorded for this data is 1037
+    The total number of trucks recorded for this data is 109
+    The total number of electric vehicles recorded for this data is 368
+    The total number of two-wheeled vehicles recorded for this data is 401
+    The total number of busses leaving Elm Avenue/Rabbit Road heading North is 15
+    The total number of vehicles through both junctions not turning left or right is 363
+    The percentage of total vehicles recorded that are trucks for this date is 10%
+    The average number of Bikes per hour for this date is 7
+    The total number of vehicles recorded as over the speed limit for this data is 419
+    The total number of vehicles recorded through Elm Avenue/Rabbit road junction is 494
+    The total number of vehicles recorded through Hanley Highway/Westway junction is 543
+    11% of vehicles recorded through Elm Avenue/Rabbit Road are scooters.
+    The most vehicles through Hanley Highway/Westway were recorded between 39
+    The number of hours of rain for this date is 0
+                        
+    
+    data file selected is traffic_data15062024.csv        
+    The total number of vehicles recorded for this data is 1037
+    The total number of trucks recorded for this data is 109
+    The total number of electric vehicles recorded for this data is 368
+    The total number of two-wheeled vehicles recorded for this data is 401
+    The total number of busses leaving Elm Avenue/Rabbit Road heading North is 15
+    The total number of vehicles through both junctions not turning left or right is 363
+    The percentage of total vehicles recorded that are trucks for this date is 10%
+    The average number of Bikes per hour for this date is 7
+    The total number of vehicles recorded as over the speed limit for this data is 419
+    The total number of vehicles recorded through Elm Avenue/Rabbit road junction is 494
+    The total number of vehicles recorded through Hanley Highway/Westway junction is 543
+    11% of vehicles recorded through Elm Avenue/Rabbit Road are scooters.
+    The most vehicles through Hanley Highway/Westway were recorded between 39
+    The number of hours of rain for this date is 0
+                        
+    
+    data file selected is traffic_data15062024.csv        
+    The total number of vehicles recorded for this data is 1037
+    The total number of trucks recorded for this data is 109
+    The total number of electric vehicles recorded for this data is 368
+    The total number of two-wheeled vehicles recorded for this data is 401
+    The total number of busses leaving Elm Avenue/Rabbit Road heading North is 15
+    The total number of vehicles through both junctions not turning left or right is 363
+    The percentage of total vehicles recorded that are trucks for this date is 10%
+    The average number of Bikes per hour for this date is 7
+    The total number of vehicles recorded as over the speed limit for this data is 419
+    The total number of vehicles recorded through Elm Avenue/Rabbit road junction is 494
+    The total number of vehicles recorded through Hanley Highway/Westway junction is 543
+    11% of vehicles recorded through Elm Avenue/Rabbit Road are scooters.
+    The most vehicles through Hanley Highway/Westway were recorded between 39
+    The number of hours of rain for this date is 0
+                        
+    
+    data file selected is traffic_data15062024.csv        
+    The total number of vehicles recorded for this data is 1037
+    The total number of trucks recorded for this data is 109
+    The total number of electric vehicles recorded for this data is 368
+    The total number of two-wheeled vehicles recorded for this data is 401
+    The total number of busses leaving Elm Avenue/Rabbit Road heading North is 15
+    The total number of vehicles through both junctions not turning left or right is 363
+    The percentage of total vehicles recorded that are trucks for this date is 10%
+    The average number of Bikes per hour for this date is 7
+    The total number of vehicles recorded as over the speed limit for this data is 419
+    The total number of vehicles recorded through Elm Avenue/Rabbit road junction is 494
+    The total number of vehicles recorded through Hanley Highway/Westway junction is 543
+    11% of vehicles recorded through Elm Avenue/Rabbit Road are scooters.
+    The most vehicles through Hanley Highway/Westway were recorded between 39
+    The number of hours of rain for this date is 0
+                        
+    
+    data file selected is traffic_data16062024.csv        
+    The total number of vehicles recorded for this data is 101
+    The total number of trucks recorded for this data is 11
+    The total number of electric vehicles recorded for this data is 29
+    The total number of two-wheeled vehicles recorded for this data is 29
+    The total number of busses leaving Elm Avenue/Rabbit Road heading North is 0
+    The total number of vehicles through both junctions not turning left or right is 38
+    The percentage of total vehicles recorded that are trucks for this date is 10%
+    The average number of Bikes per hour for this date is 0
+    The total number of vehicles recorded as over the speed limit for this data is 42
+    The total number of vehicles recorded through Elm Avenue/Rabbit road junction is 52
+    The total number of vehicles recorded through Hanley Highway/Westway junction is 49
+    6% of vehicles recorded through Elm Avenue/Rabbit Road are scooters.
+    The most vehicles through Hanley Highway/Westway were recorded between 5
+    The number of hours of rain for this date is 3
+                        
+    
+    data file selected is traffic_data21062024.csv        
+    The total number of vehicles recorded for this data is 1334
+    The total number of trucks recorded for this data is 138
+    The total number of electric vehicles recorded for this data is 442
+    The total number of two-wheeled vehicles recorded for this data is 503
+    The total number of busses leaving Elm Avenue/Rabbit Road heading North is 19
+    The total number of vehicles through both junctions not turning left or right is 494
+    The percentage of total vehicles recorded that are trucks for this date is 10%
+    The average number of Bikes per hour for this date is 9
+    The total number of vehicles recorded as over the speed limit for this data is 532
+    The total number of vehicles recorded through Elm Avenue/Rabbit road junction is 651
+    The total number of vehicles recorded through Hanley Highway/Westway junction is 683
+    10% of vehicles recorded through Elm Avenue/Rabbit Road are scooters.
+    The most vehicles through Hanley Highway/Westway were recorded between 71
+    The number of hours of rain for this date is 6
+                        
+    
